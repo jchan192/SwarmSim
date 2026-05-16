@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swarm_simulation_py", "swarm_simulation\swarm_simulation.vcxproj", "{110183E1-5195-4330-836B-A167886C4245}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swarm_simulation_cpp", "swarm_simulation_cpp\swarm_simulation_cpp.vcxproj", "{910B745B-DFB9-4DAE-BEA9-11387759726B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110183E1-5195-4330-836B-A167886C4245}.Debug|x64.ActiveCfg = Debug|x64
+		{110183E1-5195-4330-836B-A167886C4245}.Debug|x64.Build.0 = Debug|x64
+		{110183E1-5195-4330-836B-A167886C4245}.Debug|x86.ActiveCfg = Debug|Win32
+		{110183E1-5195-4330-836B-A167886C4245}.Debug|x86.Build.0 = Debug|Win32
+		{110183E1-5195-4330-836B-A167886C4245}.Release|x64.ActiveCfg = Release|x64
+		{110183E1-5195-4330-836B-A167886C4245}.Release|x64.Build.0 = Release|x64
+		{110183E1-5195-4330-836B-A167886C4245}.Release|x86.ActiveCfg = Release|Win32
+		{110183E1-5195-4330-836B-A167886C4245}.Release|x86.Build.0 = Release|Win32
+		{910B745B-DFB9-4DAE-BEA9-11387759726B}.Debug|x64.ActiveCfg = Debug|x64
+		{910B745B-DFB9-4DAE-BEA9-11387759726B}.Debug|x64.Build.0 = Debug|x64
+		{910B745B-DFB9-4DAE-BEA9-11387759726B}.Debug|x86.ActiveCfg = Debug|Win32
+		{910B745B-DFB9-4DAE-BEA9-11387759726B}.Debug|x86.Build.0 = Debug|Win32
+		{910B745B-DFB9-4DAE-BEA9-11387759726B}.Release|x64.ActiveCfg = Release|x64
+		{910B745B-DFB9-4DAE-BEA9-11387759726B}.Release|x64.Build.0 = Release|x64
+		{910B745B-DFB9-4DAE-BEA9-11387759726B}.Release|x86.ActiveCfg = Release|Win32
+		{910B745B-DFB9-4DAE-BEA9-11387759726B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31407CC7-9459-4B03-A244-60BC09DF4B80}
+	EndGlobalSection
+EndGlobal
