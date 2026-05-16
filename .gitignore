@@ -1,0 +1,24 @@
+# Visual Studio local/build files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated simulation outputs
+Output_Data/
+tmpOutput/
+*.dat
+*.log
+
+#pwd
+*.pwd
