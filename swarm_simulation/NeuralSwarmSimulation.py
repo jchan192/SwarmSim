@@ -1,3 +1,5 @@
+# This code calls the physics simulation from SwarmSim.cpp and train it here
+
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import numpy as np
